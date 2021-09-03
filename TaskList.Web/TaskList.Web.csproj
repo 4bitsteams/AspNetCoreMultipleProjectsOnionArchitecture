@@ -16,4 +16,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TaskList.DAL\TaskList.DAL.csproj" />
+  </ItemGroup>
+
 </Project>
